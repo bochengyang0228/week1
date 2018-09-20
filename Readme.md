@@ -1,6 +1,6 @@
 # Introduce myself
 
-嗨大家好，我是資工系大三廖威仲，這是我的DjangoClass的作業repo
+嗨大家好，我是昆蟲系大二楊博丞，這是我的DjangoClass的作業repo
 
 ---
 ## Week1
